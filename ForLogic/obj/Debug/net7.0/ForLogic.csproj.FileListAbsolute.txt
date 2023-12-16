@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\obj\Debug\net7.0\ForLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\obj\Debug\net7.0\ForLogic.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\obj\Debug\net7.0\ForLogic.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\obj\Debug\net7.0\ForLogic.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\bin\Debug\net7.0\ForLogic.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\bin\Debug\net7.0\ForLogic.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\bin\Debug\net7.0\ForLogic.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\bin\Debug\net7.0\ForLogic.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\bin\Debug\net7.0\ForLogic.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\obj\Debug\net7.0\ForLogic.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\obj\Debug\net7.0\refint\ForLogic.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\obj\Debug\net7.0\ForLogic.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\obj\Debug\net7.0\ForLogic.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ForLogic\obj\Debug\net7.0\ref\ForLogic.dll

@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\bin\Debug\net7.0\ExpressionEval.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\bin\Debug\net7.0\ExpressionEval.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\bin\Debug\net7.0\ExpressionEval.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\bin\Debug\net7.0\ExpressionEval.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\bin\Debug\net7.0\ExpressionEval.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\obj\Debug\net7.0\ExpressionEval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\obj\Debug\net7.0\ExpressionEval.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\obj\Debug\net7.0\ExpressionEval.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\obj\Debug\net7.0\ExpressionEval.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\obj\Debug\net7.0\ExpressionEval.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\obj\Debug\net7.0\refint\ExpressionEval.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\obj\Debug\net7.0\ExpressionEval.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\obj\Debug\net7.0\ExpressionEval.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExpressionEval\obj\Debug\net7.0\ref\ExpressionEval.dll

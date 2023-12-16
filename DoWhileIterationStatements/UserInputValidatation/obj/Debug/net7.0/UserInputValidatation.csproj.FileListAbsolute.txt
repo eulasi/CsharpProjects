@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\obj\Debug\net7.0\UserInputValidatation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\obj\Debug\net7.0\UserInputValidatation.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\obj\Debug\net7.0\UserInputValidatation.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\obj\Debug\net7.0\UserInputValidatation.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\bin\Debug\net7.0\UserInputValidatation.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\bin\Debug\net7.0\UserInputValidatation.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\bin\Debug\net7.0\UserInputValidatation.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\bin\Debug\net7.0\UserInputValidatation.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\bin\Debug\net7.0\UserInputValidatation.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\obj\Debug\net7.0\UserInputValidatation.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\obj\Debug\net7.0\refint\UserInputValidatation.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\obj\Debug\net7.0\UserInputValidatation.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\obj\Debug\net7.0\UserInputValidatation.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\UserInputValidatation\obj\Debug\net7.0\ref\UserInputValidatation.dll

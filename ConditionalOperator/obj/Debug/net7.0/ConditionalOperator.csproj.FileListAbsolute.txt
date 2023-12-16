@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\obj\Debug\net7.0\refint\ConditionalOperator.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ConditionalOperator\obj\Debug\net7.0\ref\ConditionalOperator.dll

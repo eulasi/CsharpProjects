@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\bin\Debug\net7.0\CommentComet.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\bin\Debug\net7.0\CommentComet.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\bin\Debug\net7.0\CommentComet.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\bin\Debug\net7.0\CommentComet.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\bin\Debug\net7.0\CommentComet.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\obj\Debug\net7.0\CommentComet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\obj\Debug\net7.0\CommentComet.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\obj\Debug\net7.0\CommentComet.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\obj\Debug\net7.0\CommentComet.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\obj\Debug\net7.0\CommentComet.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\obj\Debug\net7.0\refint\CommentComet.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\obj\Debug\net7.0\CommentComet.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\obj\Debug\net7.0\CommentComet.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CommentComet\obj\Debug\net7.0\ref\CommentComet.dll

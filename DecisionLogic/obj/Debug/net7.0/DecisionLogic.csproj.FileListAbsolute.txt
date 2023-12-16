@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\obj\Debug\net7.0\refint\DecisionLogic.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DecisionLogic\obj\Debug\net7.0\ref\DecisionLogic.dll

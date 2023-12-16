@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\obj\Debug\net7.0\StringInputValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\obj\Debug\net7.0\StringInputValidation.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\obj\Debug\net7.0\StringInputValidation.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\obj\Debug\net7.0\StringInputValidation.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\bin\Debug\net7.0\StringInputValidation.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\bin\Debug\net7.0\StringInputValidation.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\bin\Debug\net7.0\StringInputValidation.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\bin\Debug\net7.0\StringInputValidation.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\bin\Debug\net7.0\StringInputValidation.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\obj\Debug\net7.0\StringInputValidation.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\obj\Debug\net7.0\refint\StringInputValidation.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\obj\Debug\net7.0\StringInputValidation.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\obj\Debug\net7.0\StringInputValidation.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\StringInputValidation\obj\Debug\net7.0\ref\StringInputValidation.dll

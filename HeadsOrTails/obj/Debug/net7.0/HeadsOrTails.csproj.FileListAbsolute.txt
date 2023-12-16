@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\obj\Debug\net7.0\HeadsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\obj\Debug\net7.0\HeadsOrTails.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\obj\Debug\net7.0\HeadsOrTails.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\obj\Debug\net7.0\HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\bin\Debug\net7.0\HeadsOrTails.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\bin\Debug\net7.0\HeadsOrTails.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\bin\Debug\net7.0\HeadsOrTails.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\bin\Debug\net7.0\HeadsOrTails.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\bin\Debug\net7.0\HeadsOrTails.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\obj\Debug\net7.0\HeadsOrTails.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\obj\Debug\net7.0\refint\HeadsOrTails.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\obj\Debug\net7.0\HeadsOrTails.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\obj\Debug\net7.0\HeadsOrTails.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HeadsOrTails\obj\Debug\net7.0\ref\HeadsOrTails.dll

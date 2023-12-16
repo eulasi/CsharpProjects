@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\bin\Debug\net7.0\ProcessArrayContent.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\bin\Debug\net7.0\ProcessArrayContent.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\bin\Debug\net7.0\ProcessArrayContent.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\bin\Debug\net7.0\ProcessArrayContent.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\bin\Debug\net7.0\ProcessArrayContent.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\obj\Debug\net7.0\ProcessArrayContent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\obj\Debug\net7.0\ProcessArrayContent.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\obj\Debug\net7.0\ProcessArrayContent.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\obj\Debug\net7.0\ProcessArrayContent.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\obj\Debug\net7.0\ProcessArrayContent.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\obj\Debug\net7.0\refint\ProcessArrayContent.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\obj\Debug\net7.0\ProcessArrayContent.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\obj\Debug\net7.0\ProcessArrayContent.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterationStatements\ProcessArrayContent\obj\Debug\net7.0\ref\ProcessArrayContent.dll

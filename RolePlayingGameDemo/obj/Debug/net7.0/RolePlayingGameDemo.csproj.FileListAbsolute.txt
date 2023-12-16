@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\obj\Debug\net7.0\RolePlayingGameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\obj\Debug\net7.0\RolePlayingGameDemo.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\obj\Debug\net7.0\RolePlayingGameDemo.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\obj\Debug\net7.0\RolePlayingGameDemo.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\bin\Debug\net7.0\RolePlayingGameDemo.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\bin\Debug\net7.0\RolePlayingGameDemo.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\bin\Debug\net7.0\RolePlayingGameDemo.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\bin\Debug\net7.0\RolePlayingGameDemo.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\bin\Debug\net7.0\RolePlayingGameDemo.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\obj\Debug\net7.0\RolePlayingGameDemo.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\obj\Debug\net7.0\refint\RolePlayingGameDemo.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\obj\Debug\net7.0\RolePlayingGameDemo.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\obj\Debug\net7.0\RolePlayingGameDemo.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameDemo\obj\Debug\net7.0\ref\RolePlayingGameDemo.dll

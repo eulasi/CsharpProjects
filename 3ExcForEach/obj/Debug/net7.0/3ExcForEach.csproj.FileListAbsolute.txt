@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\bin\Debug\net7.0\3ExcForEach.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\bin\Debug\net7.0\3ExcForEach.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\bin\Debug\net7.0\3ExcForEach.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\bin\Debug\net7.0\3ExcForEach.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\bin\Debug\net7.0\3ExcForEach.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\obj\Debug\net7.0\3ExcForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\obj\Debug\net7.0\3ExcForEach.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\obj\Debug\net7.0\3ExcForEach.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\obj\Debug\net7.0\3ExcForEach.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\obj\Debug\net7.0\3ExcForEach.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\obj\Debug\net7.0\refint\3ExcForEach.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\obj\Debug\net7.0\3ExcForEach.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\obj\Debug\net7.0\3ExcForEach.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\3ExcForEach\obj\Debug\net7.0\ref\3ExcForEach.dll

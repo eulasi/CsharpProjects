@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\bin\Debug\net7.0\RemovingCodeBlocks.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\bin\Debug\net7.0\RemovingCodeBlocks.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\bin\Debug\net7.0\RemovingCodeBlocks.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\bin\Debug\net7.0\RemovingCodeBlocks.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\bin\Debug\net7.0\RemovingCodeBlocks.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\obj\Debug\net7.0\RemovingCodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\obj\Debug\net7.0\RemovingCodeBlocks.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\obj\Debug\net7.0\RemovingCodeBlocks.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\obj\Debug\net7.0\RemovingCodeBlocks.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\obj\Debug\net7.0\RemovingCodeBlocks.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\obj\Debug\net7.0\refint\RemovingCodeBlocks.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\obj\Debug\net7.0\RemovingCodeBlocks.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\obj\Debug\net7.0\RemovingCodeBlocks.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemovingCodeBlocks\obj\Debug\net7.0\ref\RemovingCodeBlocks.dll

@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\obj\Debug\net7.0\RenewMySubscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\obj\Debug\net7.0\RenewMySubscription.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\obj\Debug\net7.0\RenewMySubscription.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\obj\Debug\net7.0\RenewMySubscription.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\bin\Debug\net7.0\RenewMySubscription.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\bin\Debug\net7.0\RenewMySubscription.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\bin\Debug\net7.0\RenewMySubscription.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\bin\Debug\net7.0\RenewMySubscription.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\bin\Debug\net7.0\RenewMySubscription.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\obj\Debug\net7.0\RenewMySubscription.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\obj\Debug\net7.0\refint\RenewMySubscription.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\obj\Debug\net7.0\RenewMySubscription.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\obj\Debug\net7.0\RenewMySubscription.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RenewMySubscription\obj\Debug\net7.0\ref\RenewMySubscription.dll

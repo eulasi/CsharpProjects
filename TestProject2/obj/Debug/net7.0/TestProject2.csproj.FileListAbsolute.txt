@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\bin\Debug\net7.0\TestProject2.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\bin\Debug\net7.0\TestProject2.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\bin\Debug\net7.0\TestProject2.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\bin\Debug\net7.0\TestProject2.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\bin\Debug\net7.0\TestProject2.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\obj\Debug\net7.0\TestProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\obj\Debug\net7.0\TestProject2.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\obj\Debug\net7.0\TestProject2.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\obj\Debug\net7.0\TestProject2.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\obj\Debug\net7.0\TestProject2.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\obj\Debug\net7.0\refint\TestProject2.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\obj\Debug\net7.0\TestProject2.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\obj\Debug\net7.0\TestProject2.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TestProject2\obj\Debug\net7.0\ref\TestProject2.dll

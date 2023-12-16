@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\obj\Debug\net7.0\RolePlayingGameSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\obj\Debug\net7.0\RolePlayingGameSolution.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\obj\Debug\net7.0\RolePlayingGameSolution.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\obj\Debug\net7.0\RolePlayingGameSolution.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\bin\Debug\net7.0\RolePlayingGameSolution.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\bin\Debug\net7.0\RolePlayingGameSolution.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\bin\Debug\net7.0\RolePlayingGameSolution.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\bin\Debug\net7.0\RolePlayingGameSolution.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\bin\Debug\net7.0\RolePlayingGameSolution.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\obj\Debug\net7.0\RolePlayingGameSolution.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\obj\Debug\net7.0\refint\RolePlayingGameSolution.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\obj\Debug\net7.0\RolePlayingGameSolution.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\obj\Debug\net7.0\RolePlayingGameSolution.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RolePlayingGameSolution\obj\Debug\net7.0\ref\RolePlayingGameSolution.dll

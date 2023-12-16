@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\bin\Debug\net7.0\CodeBlocksVariable.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\bin\Debug\net7.0\CodeBlocksVariable.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\bin\Debug\net7.0\CodeBlocksVariable.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\bin\Debug\net7.0\CodeBlocksVariable.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\bin\Debug\net7.0\CodeBlocksVariable.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\obj\Debug\net7.0\CodeBlocksVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\obj\Debug\net7.0\CodeBlocksVariable.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\obj\Debug\net7.0\CodeBlocksVariable.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\obj\Debug\net7.0\CodeBlocksVariable.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\obj\Debug\net7.0\CodeBlocksVariable.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\obj\Debug\net7.0\refint\CodeBlocksVariable.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\obj\Debug\net7.0\CodeBlocksVariable.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\obj\Debug\net7.0\CodeBlocksVariable.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CodeBlocksVariable\obj\Debug\net7.0\ref\CodeBlocksVariable.dll

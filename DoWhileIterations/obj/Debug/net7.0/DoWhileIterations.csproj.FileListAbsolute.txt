@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\bin\Debug\net7.0\DoWhileIterations.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\bin\Debug\net7.0\DoWhileIterations.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\bin\Debug\net7.0\DoWhileIterations.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\bin\Debug\net7.0\DoWhileIterations.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\bin\Debug\net7.0\DoWhileIterations.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\obj\Debug\net7.0\DoWhileIterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\obj\Debug\net7.0\DoWhileIterations.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\obj\Debug\net7.0\DoWhileIterations.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\obj\Debug\net7.0\DoWhileIterations.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\obj\Debug\net7.0\DoWhileIterations.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\obj\Debug\net7.0\refint\DoWhileIterations.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\obj\Debug\net7.0\DoWhileIterations.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\obj\Debug\net7.0\DoWhileIterations.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DoWhileIterations\obj\Debug\net7.0\ref\DoWhileIterations.dll

@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\obj\Debug\net7.0\SwitchCasesExcersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\obj\Debug\net7.0\SwitchCasesExcersize.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\obj\Debug\net7.0\SwitchCasesExcersize.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\obj\Debug\net7.0\SwitchCasesExcersize.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\bin\Debug\net7.0\SwitchCasesExcersize.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\bin\Debug\net7.0\SwitchCasesExcersize.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\bin\Debug\net7.0\SwitchCasesExcersize.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\bin\Debug\net7.0\SwitchCasesExcersize.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\bin\Debug\net7.0\SwitchCasesExcersize.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\obj\Debug\net7.0\SwitchCasesExcersize.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\obj\Debug\net7.0\refint\SwitchCasesExcersize.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\obj\Debug\net7.0\SwitchCasesExcersize.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\obj\Debug\net7.0\SwitchCasesExcersize.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\SwitchCasesExcersize\obj\Debug\net7.0\ref\SwitchCasesExcersize.dll
