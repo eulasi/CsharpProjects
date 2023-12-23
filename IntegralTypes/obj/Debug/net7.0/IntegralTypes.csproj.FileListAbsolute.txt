@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\bin\Debug\net7.0\IntegralTypes.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\bin\Debug\net7.0\IntegralTypes.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\bin\Debug\net7.0\IntegralTypes.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\bin\Debug\net7.0\IntegralTypes.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\bin\Debug\net7.0\IntegralTypes.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\obj\Debug\net7.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\obj\Debug\net7.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\obj\Debug\net7.0\IntegralTypes.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\obj\Debug\net7.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\obj\Debug\net7.0\IntegralTypes.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\obj\Debug\net7.0\refint\IntegralTypes.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\obj\Debug\net7.0\IntegralTypes.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\obj\Debug\net7.0\IntegralTypes.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\IntegralTypes\obj\Debug\net7.0\ref\IntegralTypes.dll
