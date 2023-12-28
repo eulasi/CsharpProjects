@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\obj\Debug\net7.0\CombiningConvertingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\obj\Debug\net7.0\CombiningConvertingStrings.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\obj\Debug\net7.0\CombiningConvertingStrings.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\obj\Debug\net7.0\CombiningConvertingStrings.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\bin\Debug\net7.0\CombiningConvertingStrings.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\bin\Debug\net7.0\CombiningConvertingStrings.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\bin\Debug\net7.0\CombiningConvertingStrings.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\bin\Debug\net7.0\CombiningConvertingStrings.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\bin\Debug\net7.0\CombiningConvertingStrings.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\obj\Debug\net7.0\CombiningConvertingStrings.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\obj\Debug\net7.0\refint\CombiningConvertingStrings.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\obj\Debug\net7.0\CombiningConvertingStrings.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\obj\Debug\net7.0\CombiningConvertingStrings.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\CombiningConvertingStrings\obj\Debug\net7.0\ref\CombiningConvertingStrings.dll

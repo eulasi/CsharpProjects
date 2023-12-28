@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\obj\Debug\net7.0\refint\DataTypeConversion.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DataTypeConversion\obj\Debug\net7.0\ref\DataTypeConversion.dll

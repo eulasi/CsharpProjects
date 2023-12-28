@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\obj\Debug\net7.0\TryAndParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\obj\Debug\net7.0\TryAndParse.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\obj\Debug\net7.0\TryAndParse.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\obj\Debug\net7.0\TryAndParse.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\bin\Debug\net7.0\TryAndParse.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\bin\Debug\net7.0\TryAndParse.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\bin\Debug\net7.0\TryAndParse.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\bin\Debug\net7.0\TryAndParse.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\bin\Debug\net7.0\TryAndParse.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\obj\Debug\net7.0\TryAndParse.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\obj\Debug\net7.0\refint\TryAndParse.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\obj\Debug\net7.0\TryAndParse.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\obj\Debug\net7.0\TryAndParse.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\TryAndParse\obj\Debug\net7.0\ref\TryAndParse.dll
