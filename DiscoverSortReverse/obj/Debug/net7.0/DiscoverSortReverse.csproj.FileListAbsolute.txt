@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\bin\Debug\net7.0\DiscoverSortReverse.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\bin\Debug\net7.0\DiscoverSortReverse.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\bin\Debug\net7.0\DiscoverSortReverse.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\bin\Debug\net7.0\DiscoverSortReverse.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\bin\Debug\net7.0\DiscoverSortReverse.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\obj\Debug\net7.0\DiscoverSortReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\obj\Debug\net7.0\DiscoverSortReverse.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\obj\Debug\net7.0\DiscoverSortReverse.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\obj\Debug\net7.0\DiscoverSortReverse.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\obj\Debug\net7.0\DiscoverSortReverse.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\obj\Debug\net7.0\refint\DiscoverSortReverse.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\obj\Debug\net7.0\DiscoverSortReverse.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\obj\Debug\net7.0\DiscoverSortReverse.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\DiscoverSortReverse\obj\Debug\net7.0\ref\DiscoverSortReverse.dll
