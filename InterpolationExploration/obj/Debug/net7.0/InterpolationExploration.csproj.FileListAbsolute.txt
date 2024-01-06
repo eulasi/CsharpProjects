@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\bin\Debug\net7.0\InterpolationExploration.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\bin\Debug\net7.0\InterpolationExploration.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\bin\Debug\net7.0\InterpolationExploration.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\bin\Debug\net7.0\InterpolationExploration.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\bin\Debug\net7.0\InterpolationExploration.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\obj\Debug\net7.0\InterpolationExploration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\obj\Debug\net7.0\InterpolationExploration.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\obj\Debug\net7.0\InterpolationExploration.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\obj\Debug\net7.0\InterpolationExploration.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\obj\Debug\net7.0\InterpolationExploration.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\obj\Debug\net7.0\refint\InterpolationExploration.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\obj\Debug\net7.0\InterpolationExploration.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\obj\Debug\net7.0\InterpolationExploration.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\InterpolationExploration\obj\Debug\net7.0\ref\InterpolationExploration.dll

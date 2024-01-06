@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\bin\Debug\net7.0\FormLetterInterpolation.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\bin\Debug\net7.0\FormLetterInterpolation.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\bin\Debug\net7.0\FormLetterInterpolation.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\bin\Debug\net7.0\FormLetterInterpolation.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\bin\Debug\net7.0\FormLetterInterpolation.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\obj\Debug\net7.0\FormLetterInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\obj\Debug\net7.0\FormLetterInterpolation.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\obj\Debug\net7.0\FormLetterInterpolation.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\obj\Debug\net7.0\FormLetterInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\obj\Debug\net7.0\FormLetterInterpolation.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\obj\Debug\net7.0\refint\FormLetterInterpolation.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\obj\Debug\net7.0\FormLetterInterpolation.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\obj\Debug\net7.0\FormLetterInterpolation.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\FormLetterInterpolation\obj\Debug\net7.0\ref\FormLetterInterpolation.dll

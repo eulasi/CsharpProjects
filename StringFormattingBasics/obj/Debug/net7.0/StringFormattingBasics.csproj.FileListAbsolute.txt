@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\bin\Debug\net7.0\StringFormattingBasics.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\bin\Debug\net7.0\StringFormattingBasics.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\bin\Debug\net7.0\StringFormattingBasics.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\bin\Debug\net7.0\StringFormattingBasics.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\bin\Debug\net7.0\StringFormattingBasics.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\obj\Debug\net7.0\StringFormattingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\obj\Debug\net7.0\StringFormattingBasics.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\obj\Debug\net7.0\StringFormattingBasics.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\obj\Debug\net7.0\StringFormattingBasics.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\obj\Debug\net7.0\StringFormattingBasics.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\obj\Debug\net7.0\refint\StringFormattingBasics.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\obj\Debug\net7.0\StringFormattingBasics.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\obj\Debug\net7.0\StringFormattingBasics.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\StringFormattingBasics\obj\Debug\net7.0\ref\StringFormattingBasics.dll
