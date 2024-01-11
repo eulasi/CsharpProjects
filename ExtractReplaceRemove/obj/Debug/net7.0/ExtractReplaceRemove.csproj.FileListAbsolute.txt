@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\obj\Debug\net7.0\refint\ExtractReplaceRemove.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\ExtractReplaceRemove\obj\Debug\net7.0\ref\ExtractReplaceRemove.dll

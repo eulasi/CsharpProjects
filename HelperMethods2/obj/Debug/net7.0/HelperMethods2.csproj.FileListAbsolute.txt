@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\bin\Debug\net7.0\HelperMethods2.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\bin\Debug\net7.0\HelperMethods2.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\bin\Debug\net7.0\HelperMethods2.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\bin\Debug\net7.0\HelperMethods2.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\bin\Debug\net7.0\HelperMethods2.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\obj\Debug\net7.0\HelperMethods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\obj\Debug\net7.0\HelperMethods2.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\obj\Debug\net7.0\HelperMethods2.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\obj\Debug\net7.0\HelperMethods2.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\obj\Debug\net7.0\HelperMethods2.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\obj\Debug\net7.0\refint\HelperMethods2.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\obj\Debug\net7.0\HelperMethods2.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\obj\Debug\net7.0\HelperMethods2.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\HelperMethods2\obj\Debug\net7.0\ref\HelperMethods2.dll

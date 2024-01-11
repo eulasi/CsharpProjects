@@ -1,0 +1,14 @@
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\bin\Debug\net7.0\RemoveReplaceHelpers.exe
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\bin\Debug\net7.0\RemoveReplaceHelpers.deps.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\bin\Debug\net7.0\RemoveReplaceHelpers.runtimeconfig.json
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\bin\Debug\net7.0\RemoveReplaceHelpers.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\bin\Debug\net7.0\RemoveReplaceHelpers.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\obj\Debug\net7.0\RemoveReplaceHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\obj\Debug\net7.0\RemoveReplaceHelpers.AssemblyInfoInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\obj\Debug\net7.0\RemoveReplaceHelpers.AssemblyInfo.cs
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\obj\Debug\net7.0\RemoveReplaceHelpers.csproj.CoreCompileInputs.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\obj\Debug\net7.0\RemoveReplaceHelpers.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\obj\Debug\net7.0\refint\RemoveReplaceHelpers.dll
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\obj\Debug\net7.0\RemoveReplaceHelpers.pdb
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\obj\Debug\net7.0\RemoveReplaceHelpers.genruntimeconfig.cache
+C:\Users\Venture\Documents\App Development Projects\CsharpProjects\RemoveReplaceHelpers\obj\Debug\net7.0\ref\RemoveReplaceHelpers.dll
